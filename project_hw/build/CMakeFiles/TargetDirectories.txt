@@ -1,0 +1,3 @@
+/home/lixiaoju/project_hw/build/CMakeFiles/rebuild_cache.dir
+/home/lixiaoju/project_hw/build/CMakeFiles/project_hw.dir
+/home/lixiaoju/project_hw/build/CMakeFiles/edit_cache.dir

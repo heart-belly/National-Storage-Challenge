@@ -1,0 +1,1 @@
+/usr/bin/cc -rdynamic CMakeFiles/project_hw.dir/main.c.o CMakeFiles/project_hw.dir/algorithm/algorithm.c.o -o project_hw  -Wl,-rpath,/home/lixiaoju/project_hw/lib ../lib/libseek_model.so -lm 
